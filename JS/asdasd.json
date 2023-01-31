@@ -1,0 +1,22 @@
+[
+    {
+    "id":1,
+    "moneda":"dolar",
+    "valor":"1 USD = 187 ARS"
+    },
+    {
+        "id":2,
+        "moneda": "euro",
+        "valor": "1 EUR = 203.23 ARS"
+    },
+    {
+        "id":3,
+        "moneda": "libra",
+        "valor": "1 GBP = 230.42 ARS"
+    },
+    {
+        "id":4,
+        "moneda": "real",
+        "valor": "1 REAL = 38.85 ARS"
+    }
+    ]
